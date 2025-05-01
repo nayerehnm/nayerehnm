@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @nayerehnm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 📌 نام پروژه 
+![لوگوی پروژه](https://via.placeholder.com/150x50?text=LOGO)  
+**توضیح یک خطی**: ابزار هوشمند ثبت شرکت و کارت بازرگانی
 
-<!---
-nayerehnm/nayerehnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 امکانات
+- ثبت شرکت در ۳ روز کاری
+- اخذ کارت بازرگانی با تضمین کیفیت
+- مشاوره رایگان حقوقی
+
+## 🛠️ نحوه استفاده
+```bash
+# برای توسعه‌دهندگان
+git clone https://github.com/username/repo.git
+npm install
